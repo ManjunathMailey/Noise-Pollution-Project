@@ -1,0 +1,71 @@
+Sl.No.,Stations Name with Zone - City,Stations Name with Zone - Location,Limit in dB(A) Leq - Day - 06 AM to 10PM,Limit in dB(A) Leq - Night - 10PM to 06AM,2019 - Day - Leq. dB(A),2019 - Night - Leq. dB(A),2020 - Day - Leq. dB(A),2020 - Night - Leq. dB(A)
+1,Bengaluru,ParisarBhawan (C),65,55,67.2,62.1,64.3,58.7
+2,Bengaluru,Peeniya (I),75,70,63.4,58.4,62.6,60.9
+3,Bengaluru,NisargaBhawan (R),55,45,76.4,79.1,80.2,77.4
+4,Bengaluru,Marathali (C),65,55,73.1,72.7,71.8,71.4
+5,Bengaluru,BTM (R),55,45,64.7,64.7,62.5,62.5
+6,Bengaluru,Yeshwantpur (C),65,55,72.1,64,70.2,64
+7,Bengaluru,R.V.C.E. (S),50,40,67.4,65.9,80.9,80.9
+8,Bengaluru,Whitefield (I),75,70,66.2,61.1,63.9,58.6
+9,Bengaluru,Dolmur (R),55,45,64.3,59.3,62.9,58.1
+10,Bengaluru,Nihmans (S),50,40,72,74.1,70.1,74.9
+11,Chennai,Eye Hospital (S),50,40,69.2,61,72.8,69.7
+12,Chennai,T.Nagar(C),65,55,77.3,73,80.3,75.9
+13,Chennai,Perambur (C),65,55,74.4,71.6,63.1,59.4
+14,Chennai,Guindy (I),75,70,80.1,78.2,82.8,83.6
+15,Chennai,Triplicane (R),55,45,60.9,59,70,68.9
+16,Chennai,Pallikarnai (C),65,55,84.4,78.6,72,72.6
+17,Chennai,Velachery (R),55,45,65.5,59.7,64.4,67.6
+18,Chennai,Washermanpet (C),65,55,75.6,71.5,74,74.1
+19,Chennai,Anna Nagar (S),50,40,75,77.8,73.4,72.8
+20,Chennai,Sowcarpet (R),55,45,62.3,60.2,65.1,60.7
+21,Delhi,Dilshad Garden (S),50,40,68.7,68.4,70.4,70.6
+22,Delhi,CPCB HQ.(C),65,55,66.5,56.7,64.5,67.4
+23,Delhi,DCE(S),50,40,62.2,57.9,57.2,54.8
+24,Delhi,ITO (C),65,55,75.1,73.5,79.8,75.6
+25,Delhi,NSIT (S),50,40,57.9,54.2,57.4,54.3
+26,Delhi,Civil Lines (C),65,55,61.7,58.3,60.6,57.3
+27,Delhi,RK Puram(R),55,45,66.8,61.6,63.3,59.2
+28,Delhi,AnandVihar (C),65,55,65.6,61.9,65.5,60.6
+29,Delhi,MandirMarg (S),50,40,65.4,54.8,58.3,56.6
+30,Delhi,Punjabi Bagh (R),55,45,61.3,52.4,57.3,51.7
+31,Hyderabad,Abids (C),65,55,73.1,65.7,72.7,67.4
+32,Hyderabad,Punjagutta(C),65,55,69.8,62.9,68.2,61.8
+33,Hyderabad,Jeedimetla(I),75,70,72.6,73.2,71.7,70
+34,Hyderabad,Zoo (S),50,40,55.8,61.4,69,68.1
+35,Hyderabad,Jublee Hills (R),55,45,59.7,53.8,74.4,69.1
+36,Hyderabad,Tarnaka(R),55,45,81.4,81.7,76.6,70
+37,Hyderabad,Gaddapothram(I),75,70,83.3,74,77.3,75.2
+38,Hyderabad,Gachibowli(S),50,40,60,58.2,60.9,71.7
+39,Hyderabad,Secunderabad (C),65,55,81.4,80.3,78,73.9
+40,Hyderabad,Kukatpalli (C),65,55,69.9,66.7,68.2,65.4
+41,Kolkata,SSKM Hospital (S),50,40,70.4,69.6,64.7,63
+42,Kolkata,Gole Park (I),75,70,64.4,61.1,69.5,66.5
+43,Kolkata,Head Quarter (C),65,55,63.4,57,66.4,65.8
+44,Kolkata,Patauli (R),55,45,73.4,72.4,70.6,74.4
+45,Kolkata,New Market (C),65,55,72.9,76.3,68.8,67.6
+46,Kolkata,Birati N. (R),55,45,79.1,77.9,66.9,63.3
+47,Kolkata,RG Kar (S),50,40,63.7,62.2,68.7,71.8
+48,Kolkata,Tollygunge (C),65,55,66.8,62.9,65.5,61.6
+49,Kolkata,Bag Bazar (R),55,45,87.2,90.1,77.1,74.6
+50,Kolkata,Behala (I),75,70,75.3,73.1,68.1,64.4
+51,Lucknow,Talkatora (I),75,70,63.7,62.3,67.1,68.9
+52,Lucknow,HajratGunj (C),65,55,74,73.2,68,70.5
+53,Lucknow,P.G.I. (S),50,40,66.7,67,81.7,80.1
+54,Lucknow,Indira Nagar (R),55,45,50.6,44.7,76.5,75.8
+55,Lucknow,Gomti Nagar (S),50,40,66.9,60.2,64.5,70.9
+56,Lucknow,Chinhat (I),75,70,67.3,60,67.1,56.5
+57,Lucknow,IT College (S),50,40,64.7,59.5,64.7,71.5
+58,Lucknow,CSS Airport (C),65,55,76.3,67,62.7,58.3
+59,Lucknow,RSC Aliganj (C),65,55,65.1,57.6,73.6,65
+60,Lucknow,UPPCB HQ. (R),55,45,63.9,62.2,62.7,57.5
+61,Mumbai,Thane (C),65,55,69.1,69.1,67.9,68.6
+62,Mumbai,Vashi Hospital (S),50,40,75.8,74.2,69.4,69.1
+63,Mumbai,Ashp (S),50,40,70.1,67.5,71.7,69.8
+64,Mumbai,Bandra (C),65,55,67.5,66.9,74.7,74.4
+65,Mumbai,"MPCB, Head Qarter (C)",65,55,70.2,67.3,72.9,64.1
+66,Mumbai,M&M Kandivali (I),75,70,60.4,52.6,60.8,53.8
+67,Mumbai,CST (C),65,55,74.5,70.3,74.2,69.6
+68,Mumbai,L&T Powai (I),75,70,59.4,55.1,62.2,60
+69,Mumbai,PepsicoChembur (R),55,45,68.1,61.3,76.5,75.4
+70,Mumbai,Andheri (I),75,70,78.9,78,80.1,79.6
